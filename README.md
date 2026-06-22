@@ -9,7 +9,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 3rd Year **B.Tech CSE (Data Science)** Student
+- 🎓 **B.Tech CSE (Data Science)** Student
 - 💡 Passionate about **Data Science, Machine Learning, and Frontend Development**
 - 🌱 Currently exploring **AI, Blockchain, and Full Stack Development**
 - 💻 I love building things that solve real-world problems
