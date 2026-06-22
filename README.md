@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palak Rani</h1>
-<h3 align="center">🎓 3rd Year B.Tech CSE (Data Science) | Passionate about Data Science, Machine Learning & Frontend Development</h3>
+<h3 align="center">🎓 B.Tech CSE (Data Science) | Passionate about Data Science, Machine Learning & Frontend Development</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Science+%7C+ML+%7C+Frontend+Dev;Building+real-world+solutions+with+code;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
